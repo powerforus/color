@@ -1,3 +1,3 @@
-module github.com/powerforus/color-go
+module github.com/powerforus/color
 
 go 1.17
