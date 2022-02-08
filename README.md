@@ -1,5 +1,11 @@
 # Color
 
+## Installation
+
+```
+go get github.com/powerforus/color-go/color
+```
+
 ## Development
 
 ```
